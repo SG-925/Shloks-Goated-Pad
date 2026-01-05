@@ -31,5 +31,6 @@ BOM:
 - PCB x1
 - Blank DSA keycaps x9
 - M4x16mm screws x4
+- 2× SK6812 MINI-E addressable RGB LEDs
 
 
